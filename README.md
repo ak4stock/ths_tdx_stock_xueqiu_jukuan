@@ -5,7 +5,11 @@
 ![Image text](https://raw.githubusercontent.com/ak4stock/ths_tdx_stock_xueqiu_jukuan/main/contact.png)  
 
 
-![Image text](https://raw.githubusercontent.com/ak4stock/ths_tdx_stock_xueqiu_jukuan/main/xiadan.png)  
+![Image text](https://raw.githubusercontent.com/ak4stock/ths_tdx_stock_xueqiu_jukuan/main/xiadan.png)    
+
+![Image text](https://github.com/ak4stock/ths_tdx_stock_xueqiu_jukuan/raw/main/order1.png)  
+
+![Image text](https://github.com/ak4stock/ths_tdx_stock_xueqiu_jukuan/raw/main/order2.png)
 
 
 
